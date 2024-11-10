@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585073911343",
+    "project_id": "authloginsignin",
+    "storage_bucket": "authloginsignin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585073911343:android:f67589ed0629b5b47fc8da",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChnYC-C3PNcKHEgRQIlU8yd3nnXShFJm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
